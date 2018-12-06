@@ -1,4 +1,5 @@
-# AX25webchat
+# AX25 web chat
+
 Browser based chat for communicating over AX25 UI frames
 
 Only works on Linux systems.
@@ -7,7 +8,7 @@ Usage:
 copy all the files to your web directory
 
 pipe output of axlisten to your web directory
-eg; axlisten -a -r -t &>> /var/www/messages.txt
+eg;`    axlisten -a -r -t &>> /var/www/messages.txt'
 
 navigate to your webserver and start chatting
 
@@ -17,6 +18,6 @@ navigate to your webserver and start chatting
 TO DO
 Change listing.php to update the page with AJAX instead of auto refreshing every 3 seconds.
 
-Improve appearance of everything!
+Improve appearance of everything, including using offline fonts
 
 contact me @ danielwmahony@gmail.com
