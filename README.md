@@ -8,7 +8,8 @@ Usage:
 copy all the files to your web directory
 
 pipe output of axlisten to your web directory
-eg;`    axlisten -a -r -t &>> /var/www/messages.txt'
+eg;
+    `axlisten -a -r -t &>> /var/www/messages.txt'
 
 navigate to your webserver and start chatting
 
