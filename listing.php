@@ -1,6 +1,6 @@
 <?php
 // set source file name and path
-$source = "frontail.txt";
+$source = "messages.txt";
 
 //$file=file("messages.txt");$a = preg_grep("/FAIL|Reset|DEBUG0-1|Slot/",$file,PREG_GREP_INVERT );                                                       websocket_hub.go
 // read raw text as array
