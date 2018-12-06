@@ -1,8 +1,6 @@
 # AX25webchat
 Browser based chat for communicating over AX25 UI frames
 
-Simple web interface for chatting over AX25 UI frames.
-
 Only works on Linux systems.
 
 Usage:
