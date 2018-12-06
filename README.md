@@ -16,6 +16,7 @@ navigate to your webserver and start chatting
 
 TO DO
 Change listing.php to update the page with AJAX instead of auto refreshing every 3 seconds.
+
 Improve appearance of everything!
 
 contact me @ danielwmahony@gmail.com
