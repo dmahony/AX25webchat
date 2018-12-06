@@ -8,14 +8,14 @@ Usage:
 copy all the files to your web directory
 
 pipe output of axlisten to your web directory
-eg;
+eg;<br>
 axlisten -a -r -t &>> /var/www/messages.txt
-
+<br><br>
 navigate to your webserver and start chatting
-
-
+<br>
+<br>
 *lots of room for improvement, please contribute if possible!
-
+<br>
 TO DO
 Change listing.php to update the page with AJAX instead of auto refreshing every 3 seconds.
 
